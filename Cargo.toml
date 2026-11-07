@@ -1,0 +1,10 @@
+[package]
+name = "fiqh-rs-sawm-kaffarah-calc"
+version = "1.0.0"
+edition = "2021"
+description = "Ramadan Sawm Qada, Fidyah & Kaffarah Obligation Resolver"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "fiqh_rs_sawm_kaffarah_calc"
+path = "main.rs"
